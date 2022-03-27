@@ -1,8 +1,8 @@
 const LeftSide = ({ sortedArray }) => {
   let count = 1;
-  const photos = {
-    die1: "./images/die1.png",
-  };
+  // const photos = {
+  //   die1: "./images/die1.png",
+  // };
   const RollOutput = ({ id, roll }) => {
     return (
       <>
